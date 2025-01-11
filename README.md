@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @GainsCB
-- 👀 I’m interested in knitting and bread-baking
+- 👀 I’m interested in reading and bread-baking
 - 🌱 I’m currently learning HTML, CSS & JavaScript
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me https://www.linkedin.com/in/gaynorbrennan/

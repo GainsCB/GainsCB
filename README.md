@@ -1,12 +1,8 @@
-- 👋 Hi, I’m @GainsCB
-- 👀 I’m interested in reading and bread-baking
-- 🌱 I’m currently learning HTML, CSS & JavaScript
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me https://www.linkedin.com/in/gaynorbrennan/
-- 😄 Pronouns: she/her
-- ⚡ Fun fact: I used to live down the road from Father Ted's House in Ireland
+### 👋 Hi there!
 
-<!---
-GainsCB/GainsCB is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I'm Gaynor, a self-taught developer diving into the world of code.
+
+- ✨ Currently building a Weather App
+- 🎬 Recently built FlickFinder, a tool that suggests a random movie or TV show for when you can't decide! ([FlickFinder on GitHub](https://github.com/GainsCB/FlickFinder))
+- 🌱 Learning HTML, CSS, and JavaScript
+- 🔗 Let's connect! [LinkedIn](https://www.linkedin.com/in/gaynorbrennan/)
